@@ -15,9 +15,13 @@
     <tr>
       <td><img alt="active" width="28" src="https://github.com/user-attachments/assets/1106085f-6dd2-46bc-81ac-8d33e4f8e6ef"></td>
       <td><b>Hakutest</b> &mdash; Modern and efficient educational testing</td>
-      <td rowspan="3">
+      <td rowspan="4">
         <img alt="Spinning Uto" width="128" src="https://github.com/user-attachments/assets/5c4d7878-6984-4f3e-b4e1-4f5a5c227dd4">
       </td>
+    </tr>
+    <tr>
+      <td><img alt="active" width="28" src="https://github.com/user-attachments/assets/1106085f-6dd2-46bc-81ac-8d33e4f8e6ef"></td>
+      <td><b>Pink Phantasm</b> &mdash; A little IT community</td>
     </tr>
     <tr>
       <td><img alt="finished" width="28" src="https://github.com/user-attachments/assets/a3ee8ee8-a923-4078-9d33-c935a2c86b07"></td>
