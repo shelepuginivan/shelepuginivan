@@ -1,35 +1,18 @@
-<table>
-  <thead>
-    <tr>
-      <td align="center" colspan="2">
-        <img alt="Projects" src="https://img.shields.io/badge/projects-173656?style=for-the-badge">
-        <img alt="Status explanation begin" height="28" role="presentation" src="https://github.com/user-attachments/assets/b72ab822-fe5e-4928-a9c5-f2b6d10a60ee">
-        <img alt="Finished" src="https://img.shields.io/badge/finished-173656?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIxZW0iIGhlaWdodD0iMWVtIiB2aWV3Qm94PSIwIDAgMjQgMjQiPjxnIGZpbGw9Im5vbmUiIHN0cm9rZT0iI2YxZjJmMyIgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIiBzdHJva2UtbGluZWpvaW49InJvdW5kIiBzdHJva2Utd2lkdGg9IjIiPjxjaXJjbGUgY3g9IjEyIiBjeT0iMTIiIHI9IjEwIi8+PHBhdGggZD0ibTkgMTJsMiAybDQtNCIvPjwvZz48L3N2Zz4=">
-        <img alt="Stable" src="https://img.shields.io/badge/active-173656?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIxZW0iIGhlaWdodD0iMWVtIiB2aWV3Qm94PSIwIDAgMjQgMjQiPjxnIGZpbGw9Im5vbmUiIHN0cm9rZT0iI2YxZjJmMyIgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIiBzdHJva2UtbGluZWpvaW49InJvdW5kIiBzdHJva2Utd2lkdGg9IjIiPjxjaXJjbGUgY3g9IjEyIiBjeT0iMTIiIHI9IjEwIi8+PGNpcmNsZSBjeD0iMTIiIGN5PSIxMiIgcj0iMSIvPjwvZz48L3N2Zz4=">
-        <img alt="Status explanation end" height="28" src="https://github.com/user-attachments/assets/c2bb5f95-b707-44a9-82d6-21d6b31a0848">
-      </td>
-      <td align="center"><img alt="Spinning Uto" src="https://img.shields.io/badge/spinning_uto-173656?style=for-the-badge"></td>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td><img alt="active" width="28" src="https://github.com/user-attachments/assets/1106085f-6dd2-46bc-81ac-8d33e4f8e6ef"></td>
-      <td><b>Hakutest</b> &mdash; Modern and efficient educational testing</td>
-      <td rowspan="4">
-        <img alt="Spinning Uto" width="128" src="https://github.com/user-attachments/assets/5c4d7878-6984-4f3e-b4e1-4f5a5c227dd4">
-      </td>
-    </tr>
-    <tr>
-      <td><img alt="active" width="28" src="https://github.com/user-attachments/assets/1106085f-6dd2-46bc-81ac-8d33e4f8e6ef"></td>
-      <td><b>Pink Phantasm</b> &mdash; A little IT community</td>
-    </tr>
-    <tr>
-      <td><img alt="finished" width="28" src="https://github.com/user-attachments/assets/a3ee8ee8-a923-4078-9d33-c935a2c86b07"></td>
-      <td><b>Lunatic</b> &mdash; A modest, type-safe backend framework for Node.js with zero dependencies</td>
-    </tr>
-    <tr>
-      <td><img alt="finished" width="28" src="https://github.com/user-attachments/assets/a3ee8ee8-a923-4078-9d33-c935a2c86b07"></td>
-      <td><b>Rshell</b> &mdash; Minimal UNIX shell written in Rust</td>
-    </tr>
-  </tbody>
-</table>
+<div align="center">
+  <img src="https://cdn.shelepugin.ru/i/png/gh-heading-1.png" alt="Ivan Shelepugin">
+  <h5>Student and open source developer. Linux enthusiast. Free software advocate.</h5>
+</div>
+
+---
+
+<div align="center">
+  <img src="https://cdn.shelepugin.ru/i/png/gh-heading-2.png" alt="Some of my projects" height="56">
+
+| Title             | Description                                                                | Development status |
+| ----------------- | -------------------------------------------------------------------------- | :----------------: |
+| **Hakutest**      | _Modern and efficient automated educational testing_                       |       Active       |
+| **Pink Phantasm** | _A little and friendly IT community_                                       |       Active       |
+| **Lunatic**       | _A modest, type-safe backend framework for Node.js with zero dependencies_ |       Stable       |
+| **Rshell**        | _A minimal independent UNIX shell written in Rust_                         |      Finished      |
+
+</div>
