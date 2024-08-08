@@ -1,12 +1,12 @@
 <div align="center">
-  <img src="https://cdn.shelepugin.ru/i/png/gh-heading-1.png" alt="Ivan Shelepugin">
+  <img src="https://cdn.shelepugin.ru/i/png/gh-heading-title.png" alt="Ivan Shelepugin">
   <h5>Student and open source developer. Linux enthusiast. Free software advocate.</h5>
 </div>
 
 ---
 
 <div align="center">
-  <img src="https://cdn.shelepugin.ru/i/png/gh-heading-2.png" alt="Some of my projects" height="56">
+  <img src="https://cdn.shelepugin.ru/i/png/gh-heading-projects.png" alt="Some of my projects" height="56">
 
 | Title             | Description                                                                | Development status |
 | ----------------- | -------------------------------------------------------------------------- | :----------------: |
