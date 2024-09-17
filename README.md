@@ -1,18 +1,11 @@
 <div align="center">
-  <img src="https://cdn.shelepugin.ru/i/png/gh-heading-title.png" alt="Ivan Shelepugin">
-  <h5>Student and open source developer. Linux enthusiast. Free software advocate.</h5>
-</div>
 
----
-
-<div align="center">
-  <img src="https://cdn.shelepugin.ru/i/png/gh-heading-projects.png" alt="Some of my projects" height="56">
-
-| Title             | Description                                                                | Development status |
-| ----------------- | -------------------------------------------------------------------------- | :----------------: |
-| **Hakutest**      | _Modern and efficient automated educational testing_                       |       Active       |
-| **Pink Phantasm** | _A little and friendly IT community_                                       |       Active       |
-| **Lunatic**       | _A modest, type-safe backend framework for Node.js with zero dependencies_ |       Stable       |
-| **Rshell**        | _A minimal independent UNIX shell written in Rust_                         |      Finished      |
+![Ivan Shelepugin](https://cdn.shelepugin.ru/i/png/gh-heading-me.png)
+  
+[![Website: shelepugin.ru](https://cdn.shelepugin.ru/i/svg/gh-badge-website.svg)](https://shelepugin.ru)
+[![See Hakutest](https://cdn.shelepugin.ru/i/svg/gh-badge-hakutest.svg)](https://hakutest.org)
+[![See also Lunatic](https://cdn.shelepugin.ru/i/svg/gh-badge-lunatic.svg)](https://github.com/shelepuginivan/lunatic)
+[![Check out dotfiles](https://cdn.shelepugin.ru/i/svg/gh-badge-dotfiles.svg)](https://github.com/shelepuginivan/dotfiles)
+[![And finally (see) wallpapers](https://cdn.shelepugin.ru/i/svg/gh-badge-wallpapers.svg)](https://github.com/shelepuginivan/wallpapers)
 
 </div>
